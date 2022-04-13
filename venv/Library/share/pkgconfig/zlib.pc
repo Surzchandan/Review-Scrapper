@@ -1,0 +1,13 @@
+prefix=D:/30 MW Bhageria Industries Ltd/Technical Training/Python/ineuron_FSDS/Python Project/ReviewFlask/ReviewFlask/venv/Library
+exec_prefix=D:/30 MW Bhageria Industries Ltd/Technical Training/Python/ineuron_FSDS/Python Project/ReviewFlask/ReviewFlask/venv/Library
+libdir=D:/30 MW Bhageria Industries Ltd/Technical Training/Python/ineuron_FSDS/Python Project/ReviewFlask/ReviewFlask/venv/Library/lib
+sharedlibdir=D:/30 MW Bhageria Industries Ltd/Technical Training/Python/ineuron_FSDS/Python Project/ReviewFlask/ReviewFlask/venv/Library/lib
+includedir=D:/30 MW Bhageria Industries Ltd/Technical Training/Python/ineuron_FSDS/Python Project/ReviewFlask/ReviewFlask/venv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.11
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
